@@ -1,0 +1,14 @@
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\bin\Debug\net10.0\inTheNow-WWWstream.exe
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\bin\Debug\net10.0\inTheNow-WWWstream.deps.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\bin\Debug\net10.0\inTheNow-WWWstream.runtimeconfig.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\bin\Debug\net10.0\inTheNow-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\bin\Debug\net10.0\inTheNow-WWWstream.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.AssemblyInfoInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.AssemblyInfo.cs
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.csproj.CoreCompileInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\refint\inTheNow-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\inTheNow-WWWstream.genruntimeconfig.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\inTheNow-WWWstream\obj\Debug\net10.0\ref\inTheNow-WWWstream.dll
